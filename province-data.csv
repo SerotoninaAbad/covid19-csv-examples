@@ -1,0 +1,25 @@
+﻿id,name,capital,confirmed,deaths,compromised,status,lat,lng
+0,Azuay,Cuenca,42,0,0,caution,-2.750,-79.260
+1,Bolívar,Guaranda,14,0,0,,-1.500,-79.250
+2,Cañar,Azogues,19,0,0,,-2.370,-79.200
+3,Carchi,Tulcán,5,0,0,,0.750,-78.100
+4,Chimborazo,Riobamba,15,0,0,,-1.700,-78.850
+5,Cotopaxi,Latacunga,4,0,0,,-0.800,-79.100
+6,El Oro,Machala,23,0,0,,-3.400,-79.900
+7,Esmeraldas,Esmeraldas,4,0,0,,1.000,-79.500
+8,Galápagos,Puerto Baquerizo Moreno,4,0,0,,-0.038,-90.500
+9,Guayas,Guayaquil,1345,0,0,alert,-1.910,-80.280
+10,Imbabura,Ibarra,9,0,0,,0.550,-78.400
+11,Loja,Loja,13,0,0,,-3.700,-79.500
+12,Los Ríos,Babahoyo,60,0,0,caution,-1.450,-79.700
+13,Manabí,Portoviejo,44,0,0,caution,-0.800,-80.400
+14,Morona Santiago,Macas,8,0,0,,-2.400,-78.180
+15,Napo,Tena,0,0,0,,-0.450,-78.000
+16,Orellana,Francisco de Orellana,1,0,0,,-0.450,-77.000
+17,Pastaza,Puyo,5,0,0,,-1.250,-77.800
+18,Pichincha,Quito,161,0,0,warning,0.020,-78.750
+19,Santa Elena,Santa Elena,10,0,0,,-1.950,-80.800
+20,Santo Domingo,Santo Domingo,14,0,0,,-0.080,-79.320
+21,Sucumbíos,Nueva Loja,18,0,0,,0.280,-77.400
+22,Tungurahua,Ambato,4,0,0,,-1.100,-78.600
+23,Zamora Chinchipe,Zamora,1,0,0,,0.000,0.000
